@@ -9,7 +9,7 @@ public class Database {
     //Conecta a base de dados
     private static final String URL = "jdbc:mysql://localhost:3306/calculadora_imc";
     private static final String USER = "root";
-    private static final String PASSWORD = "2601";
+    private static final String PASSWORD = "1234";
 
     public void savePerson(Person person){
 
